@@ -6,6 +6,7 @@ date: 2025-04-10
 venue: 'SCOLIA @ ECIR 2025'
 slidesurl: 'http://fr2501.github.io/files/slides-query-system-review.pdf'
 preprinturl: 'http://fr2501.github.io/files/preprint-query-system-review.pdf'
+paperurl: 'https://ceur-ws.org/Vol-4022/paper-03.pdf'
 citation: 'Fabian Richter, Benjamin Schäfer and Klemens Böhm: &quot;A review of query systems for temporal n-gram corpora&quot;, SCOLIA @ ECIR 2025.'
 ---
 

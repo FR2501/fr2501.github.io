@@ -5,7 +5,8 @@ permalink: /publications/workflow-gbnc
 date: 2024-12-31
 venue: 'JCDL 2024'
 slidesurl: 'http://fr2501.github.io/files/slides-workflow-gbnc.pdf'
-paperurl: 'http://fr2501.github.io/files/paper-workflow-gbnc.pdf'
+preprinturl: 'http://fr2501.github.io/files/preprint-workflow-gbnc.pdf'
+paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3677389.3702604'
 citation: 'Fabian Richter and Klemens Böhm: &quot;A Workflow for Efficient and Interactive Analysis of the Google Books Ngram Corpus&quot;, JCDL 2024.'
 ---
 
